@@ -1,8 +1,33 @@
 h1 {
     text-align: center;
-    background-color: royalblue;
-    color:white;
-    font-family: 'Mulish', sans-serif;
+    background-color: rgb(48, 138, 94);
+    color: whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width:100%;
     padding:15px;
+    border-radius: 25px;
+  }
+
+  .input-group {
+    margin-bottom: 15px;
+  }
+  .header-title {
+    font-size: 50px;
+    color: #ffffff;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+  .card {
+    width:100%;
+  }
+  .fiveDay{    
+    background-color: rgb(48, 138, 94);
+    margin: 15px;
+  }
+  h3 {
+    float:left;
+  }
+
+  .navbar {
+    border-radius: 25px;
   }
